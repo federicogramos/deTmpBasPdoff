@@ -1,1 +1,1 @@
-actualizar por intercambio vcc gnd -
+actualizar por intercambio vcc gnd
